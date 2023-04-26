@@ -1,6 +1,6 @@
 # Coingecko_Data_Collector
 
-I made this code for dowmload market information for CoinGecko, in this case the code is composed of two modules, _"data_collector.py"_ retrive the information of the top 100 cryptocurrencies by market capitalization and store it in a CSV file , and _"data_viewer.py"_ is used to read and  make a heatmap of the price
+I made this code for download market information for CoinGecko, in this case the code is composed of two modules, _"data_collector.py"_ retrive the information of the top 100 cryptocurrencies by market capitalization and store it in a CSV file , and _"data_viewer.py"_ is used to read and  make a heatmap of the price
 
 ## Installation
 
