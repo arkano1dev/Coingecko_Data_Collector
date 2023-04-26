@@ -33,7 +33,7 @@ Next, it uses the plotly.express library to create a heat map visualization of t
 
 Finally, it updates the layout of the plot, including the title, axis titles, font, background color, and height. The plot is then displayed using the show() method.
 
-##Contributing
+## Contributing
 
 If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.
 
